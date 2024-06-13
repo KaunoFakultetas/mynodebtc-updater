@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+
+  mynodebtc-updater:
+    container_name: mynodebtc-updater
+    image: mynodebtc-updater
+    build:
+      context: ./
+      args:
+        CACHEBUSTER: ${CACHEBUSTER}
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
