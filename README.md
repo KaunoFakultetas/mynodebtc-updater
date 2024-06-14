@@ -1,6 +1,6 @@
 # MyNodeBTC Updater
 
-This repository contains the setup and deployment files for the MyNodeBTC updater, which includes a Dockerfile and Docker Compose configuration to build and run the MyNodeBTC file server in a containerized environment.
+This repository contains the setup and deployment files for the MyNodeBTC updater to build, run and update the MyNodeBTC update server in a containerized environment.
 
 ## Repository Contents
 
