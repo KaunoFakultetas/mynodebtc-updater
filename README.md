@@ -30,7 +30,8 @@ This repository contains the setup and deployment files for the MyNodeBTC update
     ./runUpdateThisStack.sh
     ```
 
-3. **SSH into your MyNodeBTC instance and run update**:
+3. **SSH into your MyNodeBTC instance and run update \
+   (insert your actual updater IP address instead 1.2.3.4)**:
     ```sh
     sudo mynode-local-upgrade 1.2.3.4
     ```
