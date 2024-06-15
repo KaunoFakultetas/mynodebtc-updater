@@ -1,4 +1,4 @@
-# MyNodeBTC Updater
+# MyNodeBTC Update Server
 
 This repository contains the setup and deployment files for the MyNodeBTC updater to build, run and update the MyNodeBTC update server in a containerized environment.
 
